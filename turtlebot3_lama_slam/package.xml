@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>turtlebot3_lama_slam</name>
+  <version>1.0.0</version>
+  <description>
+    The turtlebot3_lama_slam provides roslaunch scripts for starting the SLAM.
+  </description>
+  <license>Apache 2.0</license>
+  <author email="dandelion1124@gmail.com">atinfinity</author>
+  <maintainer email="dandelion1124@gmail.com">atinfinity</maintainer>
+  <buildtool_depend>catkin</buildtool_depend>
+  <exec_depend>iris_lama_ros</exec_depend>
+  <exec_depend>turtlebot3_bringup</exec_depend>
+</package>
