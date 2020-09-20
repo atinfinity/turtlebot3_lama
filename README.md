@@ -1,5 +1,12 @@
 # turtlebot3_lama
 
+## Introduction
+This is a package to use [iris_lama_ros](https://github.com/iris-ua/iris_lama_ros) with TurtleBot3(Gazebo).
+
+## Requirements
+
+- ROS Melodic
+
 ## Build
 
 ```
