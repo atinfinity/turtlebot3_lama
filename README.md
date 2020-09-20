@@ -12,9 +12,9 @@ This is a package to use [iris_lama_ros](https://github.com/iris-ua/iris_lama_ro
 ```
 $ mkdir -p ~/catkin_ws/src
 $ cd ~/catkin_ws/src
-$ git clone https://github.com/iris-ua/iris_lama
-$ git clone https://github.com/iris-ua/iris_lama_ros
-$ git clone https://github.com/atinfinity/turtlebot3_lama
+$ git clone https://github.com/iris-ua/iris_lama.git
+$ git clone https://github.com/iris-ua/iris_lama_ros.git -b melodic-devel
+$ git clone https://github.com/atinfinity/turtlebot3_lama.git
 $ cd ..
 $ catkin config --extend /opt/ros/melodic
 $ catkin build
